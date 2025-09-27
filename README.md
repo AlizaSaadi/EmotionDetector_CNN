@@ -1,7 +1,6 @@
-# A1-CS452: CNN Baselines for Facial Affect Recognition
+# CNN Baselines for Facial Affect Recognition
 
-This repository contains my submission for **Deep Learning (CS452) Assignment 1**.  
-The task was to implement and compare convolutional neural network (CNN) baselines for **multi-task facial affect recognition**:
+Implemented and compared convolutional neural network (CNN) baselines for **multi-task facial affect recognition**:
 
 1. **Categorical facial expression classification** (8 classes)  
 2. **Continuous valence & arousal regression** (values in [-1, 1])  
